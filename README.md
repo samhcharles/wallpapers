@@ -16,16 +16,21 @@
 
 <table>
   <tr>
-    <td align="center"><img src="nqita/nqita-office-bodyguard-01.png" width="400"><br><sub>nqita/nqita-office-bodyguard-01.png</sub></td>
-    <td align="center"><img src="pixel-art/teal-planet-animated-01.gif" width="400"><br><sub>pixel-art/teal-planet-animated-01.gif</sub></td>
+    <td align="center"><img src="pixel-art/navy-city-reflection-01.png" width="400"><br><sub>pixel-art/navy-city-reflection-01.png</sub></td>
+    <td align="center"><img src="nqita/nqita-office-pink-01.png" width="400"><br><sub>nqita/nqita-office-pink-01.png</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="pixel-art/blue-japan-shopfront-01.png" width="400"><br><sub>pixel-art/blue-japan-shopfront-01.png</sub></td>
-    <td align="center"><img src="nqita/nqita-office-pink-01.png" width="400"><br><sub>nqita/nqita-office-pink-01.png</sub></td>
+    <td align="center"><img src="ai-generated/green-capybara-hotspring-01.png" width="400"><br><sub>ai-generated/green-capybara-hotspring-01.png</sub></td>
+    <td align="center"><img src="nqita/nqita-office-bodyguard-01.png" width="400"><br><sub>nqita/nqita-office-bodyguard-01.png</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="ai-generated/blue-cathedral-cat-01.png" width="400"><br><sub>ai-generated/blue-cathedral-cat-01.png</sub></td>
+    <td align="center"><img src="pixel-art/amber-sunset-river-01.png" width="400"><br><sub>pixel-art/amber-sunset-river-01.png</sub></td>
   </tr>
 </table>
 
 ## Categories
 
+- [ai-generated](./ai-generated/)
 - [nqita](./nqita/)
 - [pixel-art](./pixel-art/)
