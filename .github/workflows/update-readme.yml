@@ -1,0 +1,31 @@
+name: Update READMEs
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'nqita/**'
+      - 'pixel-art/**'
+      - 'scripts/**'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Build READMEs
+        run: python scripts/build_readme.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update READMEs [skip ci]"
+          file_pattern: '**/README.md'
