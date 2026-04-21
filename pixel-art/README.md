@@ -9,19 +9,23 @@
   </tr>
   <tr>
     <td align="center"><img src="blue-cat-pool-01.png" width="400"><br><sub>blue-cat-pool-01.png</sub></td>
+    <td align="center"><img src="blue-cathedral-cat-01.png" width="400"><br><sub>blue-cathedral-cat-01.png</sub></td>
+  </tr>
+  <tr>
     <td align="center"><img src="blue-city-street-day-01.png" width="400"><br><sub>blue-city-street-day-01.png</sub></td>
-  </tr>
-  <tr>
     <td align="center"><img src="blue-cyberpunk-street-night-01.png" width="400"><br><sub>blue-cyberpunk-street-night-01.png</sub></td>
+  </tr>
+  <tr>
     <td align="center"><img src="blue-japan-shopfront-01.png" width="400"><br><sub>blue-japan-shopfront-01.png</sub></td>
-  </tr>
-  <tr>
     <td align="center"><img src="blue-seattle-office-01.png" width="400"><br><sub>blue-seattle-office-01.png</sub></td>
-    <td align="center"><img src="blue-warplane-dogfight-01.png" width="400"><br><sub>blue-warplane-dogfight-01.png</sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="blue-warplane-dogfight-01.png" width="400"><br><sub>blue-warplane-dogfight-01.png</sub></td>
     <td align="center"><img src="dark-mountain-pagoda-01.jpg" width="400"><br><sub>dark-mountain-pagoda-01.jpg</sub></td>
+  </tr>
+  <tr>
     <td align="center"><img src="dark-studio-interior-01.png" width="400"><br><sub>dark-studio-interior-01.png</sub></td>
+    <td align="center"><img src="green-capybara-hotspring-01.png" width="400"><br><sub>green-capybara-hotspring-01.png</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="green-meadow-relaxing-01.jpg" width="400"><br><sub>green-meadow-relaxing-01.jpg</sub></td>
@@ -45,6 +49,10 @@
   </tr>
   <tr>
     <td align="center"><img src="teal-island-cabin-01.jpg" width="400"><br><sub>teal-island-cabin-01.jpg</sub></td>
+    <td align="center"><img src="teal-planet-animated-01.gif" width="400"><br><sub>teal-planet-animated-01.gif</sub></td>
+  </tr>
+  <tr>
     <td align="center"><img src="teal-planet-orbit-01.png" width="400"><br><sub>teal-planet-orbit-01.png</sub></td>
+    <td></td>
   </tr>
 </table>
