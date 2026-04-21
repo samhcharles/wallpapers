@@ -16,16 +16,16 @@
 
 <table>
   <tr>
-    <td align="center"><img src="pixel-art/navy-city-reflection-01.png" width="400"><br><sub>pixel-art/navy-city-reflection-01.png</sub></td>
     <td align="center"><img src="nqita/nqita-office-pink-01.png" width="400"><br><sub>nqita/nqita-office-pink-01.png</sub></td>
+    <td align="center"><img src="ai-generated/teal-planet-animated-01.gif" width="400"><br><sub>ai-generated/teal-planet-animated-01.gif</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="ai-generated/green-capybara-hotspring-01.png" width="400"><br><sub>ai-generated/green-capybara-hotspring-01.png</sub></td>
+    <td align="center"><img src="pixel-art/amber-sunset-river-01.png" width="400"><br><sub>pixel-art/amber-sunset-river-01.png</sub></td>
     <td align="center"><img src="nqita/nqita-office-bodyguard-01.png" width="400"><br><sub>nqita/nqita-office-bodyguard-01.png</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="ai-generated/blue-cathedral-cat-01.png" width="400"><br><sub>ai-generated/blue-cathedral-cat-01.png</sub></td>
-    <td align="center"><img src="pixel-art/amber-sunset-river-01.png" width="400"><br><sub>pixel-art/amber-sunset-river-01.png</sub></td>
+    <td align="center"><img src="pixel-art/purple-subway-station-01.jpeg" width="400"><br><sub>pixel-art/purple-subway-station-01.jpeg</sub></td>
   </tr>
 </table>
 
