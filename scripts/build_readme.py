@@ -79,7 +79,7 @@ def main():
 
 **Personal wallpaper collection. Pixel art heavy.**
 
-{total_images} wallpapers • Latest update: {update_date}
+<code>{total_images} wallpapers</code> &nbsp; <code>Last update: {update_date}</code>
 
 </div>
 
