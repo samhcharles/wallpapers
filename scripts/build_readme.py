@@ -47,12 +47,14 @@ def main():
     categories.sort()
     
     showcase_images = []
+    total_images = 0
     
     for cat in categories:
         cat_images = get_images(cat)
         if not cat_images:
             continue
             
+        total_images += len(cat_images)
         # Generate sub-README
         sub_readme_content = f'# {cat}\n\n'
         sub_readme_content += f'[{cat} collection]\n\n'
@@ -68,14 +70,16 @@ def main():
             showcase_images.append(os.path.join(cat, img))
 
     # Generate main README
-    header = """<div align="center">
+    from datetime import datetime
+    update_date = datetime.now().strftime("%B %-d, %Y")
+    
+    header = f"""<div align="center">
 
 # wallpapers
 
 **Personal wallpaper collection. Pixel art heavy.**
 
-![Count](https://img.shields.io/badge/wallpapers-generated-blue)
-![Last Commit](https://img.shields.io/github/last-commit/samhcharles/wallpapers)
+{total_images} wallpapers • Latest update: {update_date}
 
 </div>
 
